@@ -142,6 +142,6 @@ The objective of WebGuard is to make basic website security-header inspection ea
 
 ## 👩‍💻 Author
 
-**Sudeepa**
+**Sreeja**
 
-GitHub: [@sudeepasurapaneni](https://github.com/sudeepasurapaneni)
+GitHub: [@sreejamuduganti](https://github.com/sreejamuduganti)
